@@ -7,5 +7,4 @@
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=zvbt&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
 />
