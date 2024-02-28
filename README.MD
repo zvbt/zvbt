@@ -18,6 +18,7 @@
       `###:. `³´          #########´        ︎︎Total Issues: 13
         `³######          ######³´          -----------
             `³³´          `³³´     
+zvbt@github ~/readme.md λ Hello
 ```
 
 ### Spotify
