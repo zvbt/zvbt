@@ -1,6 +1,4 @@
- 
-# About me
-```
+ ```
 zvbt@github ~/readme.md λ neofetch
 
                  __       __            zvbt@github 
