@@ -1,7 +1,7 @@
  
 # About me
 ```css
-~ neofetch
+zvbt@github ~/readme.md λ neofetch
 
                   ##                  zvbt@github   
                  ####                 -----------
@@ -21,9 +21,7 @@
    #######                  #######
   ####                          ####
  ###                              ### 
-
-zvbt@github ~/readme.md λ Hello
 ```
-
+zvbt@github ~/readme.md λ █
 ### Spotify
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cjnln9qzd0pyo1sfmjargvhw8&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53cf3a&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=cjnln9qzd0pyo1sfmjargvhw8&redirect=true)
